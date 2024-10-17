@@ -18,9 +18,9 @@
 - ```bash
   git clone https://github.com/Creacion-De-Videojuegos-GIDS4102/Prototipo-1
   
-  ![Prototipo 1.1](./Imagenes/Prototipos/1/Captura_1.PNG)
-  ![Prototipo 1.2](./Imagenes/Prototipos/1/Captura_2.PNG)
-  ![Prototipo 1.3](./Imagenes/Prototipos/1/Captura_3.PNG)
+![Prototipo 1.1](./Imagenes/Prototipos/1/Captura_1.PNG)
+![Prototipo 1.2](./Imagenes/Prototipos/1/Captura_2.PNG)
+![Prototipo 1.3](./Imagenes/Prototipos/1/Captura_3.PNG)
 
 </details>
 
@@ -45,8 +45,8 @@
 - ```bash
   git clone https://github.com/Creacion-De-Videojuegos-GIDS4102/Prototipo-2
 
-  ![Prototipo 2.1](./Imagenes/Prototipos/2/Captura_1.PNG)
-  ![Prototipo 2.2](./Imagenes/Prototipos/2/Captura_2.PNG)
+![Prototipo 2.1](./Imagenes/Prototipos/2/Captura_1.PNG)
+![Prototipo 2.2](./Imagenes/Prototipos/2/Captura_2.PNG)
 
 </details>
 
@@ -60,8 +60,8 @@
 - ```bash
   git clone https://github.com/Creacion-De-Videojuegos-GIDS4102/Challenge-2
 
-  ![Reto 1.1](./Imagenes/Challenge/2/Captura_1.PNG)
-  ![Reto 1.2](./Imagenes/Challenge/2/Captura_2.PNG)
+![Reto 1.1](./Imagenes/Challenge/2/Captura_1.PNG)
+![Reto 1.2](./Imagenes/Challenge/2/Captura_2.PNG)
 
 </details>
 
@@ -74,11 +74,11 @@
 - ```bash
   git clone https://github.com/Creacion-De-Videojuegos-GIDS4102/Prototipo-3
 
-  ![Prototipo 3.1](./Imagenes/Prototipos/3/Captura_1.PNG)
-  ![Prototipo 3.2](./Imagenes/Prototipos/3/Captura_2.PNG)
-  ![Prototipo 3.3](./Imagenes/Prototipos/3/Captura_3.PNG)
-  ![Prototipo 3.4](./Imagenes/Prototipos/3/Captura_4.PNG)
-  ![Prototipo 3.5](./Imagenes/Prototipos/3/Captura_5.PNG)
-  ![Prototipo 3.6](./Imagenes/Prototipos/3/Captura_6.PNG)
-  ![Prototipo 3.7](./Imagenes/Prototipos/3/Captura_7.PNG)
+![Prototipo 3.1](./Imagenes/Prototipos/3/Captura_1.PNG)
+![Prototipo 3.2](./Imagenes/Prototipos/3/Captura_2.PNG)
+![Prototipo 3.3](./Imagenes/Prototipos/3/Captura_3.PNG)
+![Prototipo 3.4](./Imagenes/Prototipos/3/Captura_4.PNG)
+![Prototipo 3.5](./Imagenes/Prototipos/3/Captura_5.PNG)
+![Prototipo 3.6](./Imagenes/Prototipos/3/Captura_6.PNG)
+![Prototipo 3.7](./Imagenes/Prototipos/3/Captura_7.PNG)
 </details>
